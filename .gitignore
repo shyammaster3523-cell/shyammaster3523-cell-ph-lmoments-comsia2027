@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+data/*.rda
+.ipynb_checkpoints/
